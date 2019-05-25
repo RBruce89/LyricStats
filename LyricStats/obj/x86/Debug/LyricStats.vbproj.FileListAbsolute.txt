@@ -1,0 +1,14 @@
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\bin\Debug\LyricStats.exe
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\bin\Debug\LyricStats.pdb
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\bin\Debug\LyricStats.xml
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\LyricStats.exe
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\LyricStats.xml
+C:\Users\ChaosL3E7\Desktop\LyricStats\LyricStats\obj\x86\Debug\LyricStats.pdb
+E:\ProgramStuff\Solutions\LyricStats\LyricStats\obj\x86\Debug\LyricStats.exe
+E:\ProgramStuff\Solutions\LyricStats\LyricStats\obj\x86\Debug\LyricStats.xml
+E:\ProgramStuff\Solutions\LyricStats\LyricStats\obj\x86\Debug\LyricStats.pdb
