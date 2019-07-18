@@ -1,4 +1,4 @@
-#Lyric Stats
+# Lyric Stats
 
 ![Giphy](https://media.giphy.com/media/kyEsLO8m0UtVtBRBYA/giphy.gif)
 
